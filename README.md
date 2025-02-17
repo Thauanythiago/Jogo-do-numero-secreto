@@ -16,7 +16,10 @@ O Jogo do Número Secreto é um projeto desenvolvido para praticar lógica de pr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+## 👤 Autor
+Desenvolvido por Thauany Eugenia Thiago como parte dos estudos na Alura e do programa Oracle Next Education.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauany-eugenia-thiago-629048203)
 
 ## 🌐 Acesse o Jogo
 [ Clique aqui para acessar o jogo](https://jogo-orpin-phi-58.vercel.app/)
