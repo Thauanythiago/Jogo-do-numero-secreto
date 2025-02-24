@@ -17,7 +17,7 @@ O Jogo do Número Secreto é um projeto desenvolvido para praticar lógica de pr
 </div>
 
 ## 👤 Autor
-Desenvolvido por Thauany Eugenia Thiago como parte dos estudos na Alura e do programa Oracle Next Education.
+Desenvolvido por Thauany Eugenia Thiago como parte dos estudos na Alura e do programa ONE - Oracle Next Education.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauany-eugenia-thiago-629048203)
 
